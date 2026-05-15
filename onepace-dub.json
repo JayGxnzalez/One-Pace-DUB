@@ -1,6 +1,6 @@
 {
     "sourceName": "One Pace",
-    "iconUrl": "https://git.luna-app.eu/ibro/services/raw/branch/main/onepace/icon.png",
+    "iconUrl": "https://raw.githubusercontent.com/JayGxnzalez/One-Pace-DUB/main/One_Pace_Logo.png",
     "author": {
         "name": "Jay",
         "icon": "https://avatars.githubusercontent.com/JayGxnzalez?s=400",
@@ -9,7 +9,7 @@
     "version": "2.0.9",
     "language": "English",
     "streamType": "MP4",
-    "quality": "1080p - 720p - 480p",
+    "quality": "480p - 720p - 1080p",
     "baseUrl": "https://pixeldrain.net/",
     "searchBaseUrl": "https://onepace.net/en/watch",
     "scriptUrl": "https://raw.githubusercontent.com/JayGxnzalez/One-Pace-DUB/refs/heads/main/onepace-dub.js",
